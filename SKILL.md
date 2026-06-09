@@ -59,8 +59,18 @@ These are the ones to catch even without opening the file:
 - **Hedged universal audience.** "whether you're a startup or an enterprise". Name one
   real reader.
 - **Over-symmetry.** Every sentence the same length, matched parallel lists. Vary it.
+- **Relentless punch (no slack).** Every sentence built to land, three sharp lines in a row,
+  each paragraph capped with a clipped fragment ("Every time.", "The copy doesn't save it.").
+  Nobody types that way. Let some lines just carry information. If every line could be a
+  pull-quote, rewrite until most can't.
+- **Engineered structure.** Tidy self-contained paragraphs, each one clean point, building to
+  a question or a mic-drop close. It reads outlined. A real comment or reply is one messy thought
+  typed because something annoyed the writer: it starts in the middle, skips things, and stops
+  when they're done. Write only the one thing they reacted to; don't make it complete.
 
-If the profile lists language-specific tells (e.g. for a non-English writer), apply those too.
+Relentless punch and engineered structure hit comments and replies as hard as long posts, and
+they survive after the obvious tells are gone. Screen for them last. If the profile lists
+language-specific tells (e.g. for a non-English writer), apply those too.
 
 ### Output
 

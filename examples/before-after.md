@@ -47,3 +47,41 @@ Why it lands:
 - Just stops. No kicker, no bow, no triple.
 - "the annoying part wasn't the cache, it was…" reads as natural speech because it names
   a real, specific thing. It's how Sam actually talks. When in doubt, cut even this.
+
+## A second prompt: a comment
+
+> Reply to a post claiming "AI will replace junior developers this year."
+
+This pair shows the two tells that survive after the obvious ones are gone: **relentless
+punch** (every line built to land) and **engineered structure** (reads outlined, not typed).
+
+### Before: technically clean, obviously AI
+
+> This take misses what juniors actually do.
+>
+> Juniors aren't there to write code. They're there to learn judgment. And judgment is the
+> one thing a model can't hand you.
+>
+> Replace the typing, sure. But the typing was never the job. The job was learning what to
+> build and why. That doesn't go away. It gets more valuable.
+
+Why it reads as AI, even with no em-dash or ban-list word:
+
+- Every sentence lands a hit. There's no slack, no throwaway line, nothing just carrying
+  information. Three paragraphs, each a clean point, building to a mic-drop ("It gets more
+  valuable").
+- "Replace the typing, sure. But the typing was never the job." is the antithesis tell again,
+  dressed up.
+- It reads like it came from an outline, not like someone typed it because a post annoyed them.
+
+### After: one messy thought, typed
+
+> eh, juniors don't really get hired to type though. half the value is they ask the dumb
+> questions that make you realize the spec is wrong. a model won't push back on you like that,
+> it just does what you said. anyway we still hire them so
+
+Why it lands:
+
+- Starts in the middle, lowercase, a real "eh".
+- One point (juniors push back), not a complete argument. Doesn't cover every base.
+- Has slack: "anyway we still hire them so" just trails off. Not quotable, and that's the point.

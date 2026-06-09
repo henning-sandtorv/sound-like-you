@@ -83,6 +83,32 @@ Restating the paragraph in the last line. Just stop when the point lands.
 "But here's the thing…", "Here's the kicker…", "And that's when it hit me…". Don't build
 up to a reveal. State it.
 
+## 11. Relentless punch — no slack (one of the loudest)
+
+Every sentence engineered to land. No throwaway words, no hedge, no half-thought. Three
+sharp lines in a row is the tell: nobody types that way. Real writing has slack — a filler
+word, a clause that wanders, a sentence that's just connective tissue holding two ideas
+together. The relentlessness, not any single line, is what screams AI.
+
+Tell-signs: every paragraph capped with a clipped fragment ("Every time." "The copy doesn't
+save it."). A reply that reads like it was built to be screenshotted.
+
+The fix isn't to write worse. It's to let some lines just carry information without trying
+to be quotable. If every line could be a pull-quote, rewrite until most of them can't.
+
+## 12. Engineered structure — reads outlined, not typed
+
+Three tidy self-contained paragraphs, each making one clean point, building to a question
+or a mic-drop close. It reads like it came from an outline. A real comment is one messy
+thought someone typed because something annoyed them: it starts in the middle, doesn't
+cover every base, and stops when they're done.
+
+The fix: pick the single thing you actually reacted to and write only that. Don't give it
+a beginning, middle, and end. Don't make it complete. One thought, typed, sent.
+
+(11 and 12 apply to English comments and replies just as much as to long-form posts. They
+were the tells that survived a draft even after the antithesis and kicker were stripped.)
+
 ---
 
 ## Language-specific tells
@@ -105,4 +131,6 @@ the user's in their voice profile. Worked example for Norwegian (the author's ow
 1. Search the text for: ` not `, ` — `, `instead of`, `rather than`, and the ban-list words.
 2. Read it out loud. If a clause is only there to set up a contrast, delete it.
 3. Does the last line tie a bow? Cut it.
-4. Would the person it's supposedly from actually say it this way?
+4. Count the punchy lines. If every sentence lands a hit and none just carry information,
+   it's too engineered — add slack or cut lines until it reads typed, not outlined (#11, #12).
+5. Would the person it's supposedly from actually say it this way?

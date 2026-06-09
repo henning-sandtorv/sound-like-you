@@ -5,7 +5,9 @@ A skill that makes your AI sound like you, not like an AI.
 It does two things every time it writes or edits something. It matches your voice from a
 profile built out of your own writing, and it strips the constructions that make text read
 as machine-written: the "X, not Y" antithesis, the em-dash drama, the little profound line
-bolted onto the end, the rule of three, the GPT-ese vocabulary.
+bolted onto the end, the rule of three, the GPT-ese vocabulary, and the quieter ones that
+survive after those are gone, like relentless punch (every line built to land) and engineered,
+outlined structure where a real comment would just be one messy typed thought.
 
 It's an [Agent Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills). Drop
 it in and Claude picks it up whenever you ask it to draft or rewrite something you'll send.
